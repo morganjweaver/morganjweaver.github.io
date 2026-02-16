@@ -113,6 +113,13 @@ section p {
     margin-bottom: 0.5rem;
 }
 
+.project-meta {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 0.75rem !important;
+}
+
 .project-card p {
     margin-bottom: 1rem;
     font-size: 0.95rem;
